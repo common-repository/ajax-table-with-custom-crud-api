@@ -1,0 +1,68 @@
+.postbox {
+    position: relative;
+    min-width: 25px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+    width: 80%;
+}
+
+.method{
+    width: 50px;
+}
+
+.apiname{
+    font-weight: bold;
+    background:#e1f5c3;
+}
+
+.modal-header {
+    padding:9px 15px;
+    color: #eee;
+    border-bottom:1px solid #eee;
+    background-color: #1aaf6e;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+     border-top-left-radius: 5px;
+     border-top-right-radius: 5px;
+ }
+
+.ajdt-inbox-message {
+    position: relative;
+    color: #757575;
+    background: #f0f0f0;
+    border-radius: 2px;
+    font-size: 9px;
+    font-size: .8125rem;
+    margin: 0 0 24px;
+    -ms-box-orient: horizontal;
+}
+
+.ajdt-message-title {
+    font-weight: 250;
+}
+
+.ajdt-message-wrapper > div {
+    padding: 16px 24px;
+    border: 1px solid #ddd;
+}
+
+.bd-container-body {
+    margin-right: 4.5rem;
+    padding-top: 3.5rem;
+    padding-left: 0.5rem;
+    background-color: #80bdff;
+    border-radius: .25rem;
+}
+.usageBox {
+    background-color: #f0f7ac;
+    float:top;
+}
+.usageBox label {
+    font-size: 0.75rem;
+}
+.code {
+    color: red;
+}
